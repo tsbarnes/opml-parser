@@ -1,0 +1,14 @@
+*.BASE
+*.OTHER
+*.THIS
+*.class
+*.pyc
+*.pyo
+.bzr
+.settings
+.project
+.pydevproject
+.svn
+.~*~
+_svn
+subscriptions.xml
